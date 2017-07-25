@@ -1,0 +1,55 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - BarrageRenderer (1.9.1)
+  - JSONModel (1.7.0)
+  - LFLiveKit (1.9.6)
+  - Masonry (1.0.2)
+  - MBProgressHUD (1.0.0)
+  - MJRefresh (3.1.12)
+  - RTRootNavigationController (0.5.23)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - TZImagePickerController (1.7.8)
+
+DEPENDENCIES:
+  - AFNetworking
+  - BarrageRenderer
+  - JSONModel
+  - LFLiveKit (~> 1.6)
+  - Masonry
+  - MBProgressHUD
+  - MJRefresh
+  - RTRootNavigationController
+  - SDWebImage
+  - TZImagePickerController
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  BarrageRenderer: 55bbe4557d48adbdca6c1ebdfef96946fdb5e5b2
+  JSONModel: 840bc0fcffb24b8454d2c026bf26fea454b8e98d
+  LFLiveKit: 3944fe79d51e171e391f5c980de4b9ecdb7de957
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  RTRootNavigationController: 70c0da2913cf50cbe944b0193a649700ff640a2c
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  TZImagePickerController: 87a138ae5d585225aaa6c8abe2cface0f0ad19dd
+
+PODFILE CHECKSUM: 17207d8ae8cffb8fd5d437472a22ab7530bcc3c5
+
+COCOAPODS: 1.0.1
